@@ -4,7 +4,7 @@
     
 
     <p><center><a href="" alt="wedding" border="0"><img src="https://raw.githubusercontent.com/kayanhales/rachelwedding/master/source/_assets/R%20%2B%20J%20Engagement%20Pictures%20(52%20of%2077).jpg" width="500" /></a></center></p>
-    <center><h1>Rachel & Joshua will be married on March 27, 2021 at 3:30PM CST</h1></center>
+    <center><h1>Rachel & Joshua</h1></center> <center><h2>will be married on March 27, 2021 at 3:30PM CST</h2></center>
  
     <h1>Watch on YouTube</h1>
     <p><a href="https://youtu.be/ONGIBBQKfjo">https://youtu.be/ONGIBBQKfjo</a></p>
