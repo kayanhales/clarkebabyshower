@@ -3,7 +3,7 @@
 @section('content')
     
 
-    <p><center><a href="https://images.pexels.com/photos/2814808/pexels-photo-2814808.jpeg?cs=srgb&dl=pexels-fidel-hajj-2814808.jpg&fm=jpg" alt="wedding" border="0"></a></center></p>
+    <p><center><a href="https://github.com/kayanhales/rachelwedding/blob/master/source/_assets/pexels-fidel-hajj-2814808.jpg" alt="wedding" border="0"><img src="https://github.com/kayanhales/rachelwedding/blob/master/source/_assets/pexels-fidel-hajj-2814808.jpg" width="500" /></a></center></p>
     <h1>Program</h1>
     <p>Start time: 3:30PM CST.
     </p>
