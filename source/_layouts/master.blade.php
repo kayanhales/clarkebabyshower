@@ -9,7 +9,7 @@
         {{ !empty($__env->yieldContent('title')) ? ' | ' : '' }}
         {{ $page->site->title }}
     </title>-->
-    <title>Rachel's Wedding</title>
+    <title>Rachel and Joshua's Wedding</title>
 
     @include('_partials.head.favicon')
     @include('_partials.head.meta')
