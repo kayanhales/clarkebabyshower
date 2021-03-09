@@ -12,7 +12,7 @@
     <h1>Watch on Zoom</h1>
     <p>
 Join Zoom Meeting</br>
-https://us02web.zoom.us/j/81754502434?pwd=VVBFY212d1gxY2huZWc0ajNIZ0NjQT09</br></br>
+<a href="https://us02web.zoom.us/j/81754502434?pwd=VVBFY212d1gxY2huZWc0ajNIZ0NjQT09">https://us02web.zoom.us/j/81754502434?pwd=VVBFY212d1gxY2huZWc0ajNIZ0NjQT09</a></br></br>
 
 Meeting ID: 817 5450 2434</br>
 Passcode: 574287</br></br>
@@ -29,7 +29,7 @@ Dial by your location</br>
         +1 346 248 7799 US (Houston)</br></br>
 Meeting ID: 817 5450 2434</br>
 Passcode: 574287</br>
-Find your local number: https://us02web.zoom.us/u/kb5XV1SmG
+Find your local number: <a href="https://us02web.zoom.us/u/kb5XV1SmG">https://us02web.zoom.us/u/kb5XV1SmG</a>
 </p>
     
     
