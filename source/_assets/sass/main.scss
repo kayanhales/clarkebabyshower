@@ -4,8 +4,13 @@
 @import "~highlight.js/scss/a11y-dark";
 @import "~notyf/notyf.min";
 
-section h1:first-child {
+h1 {
     margin-top: 18px;
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+section h1:first-child {
+    margin-top: 24px;
     font-family: 'Cedarville Cursive', cursive;
 }
 
