@@ -4,14 +4,32 @@
     
 
     <p><center><a href="https://ibb.co/Nnfzj4t"><img src="https://i.ibb.co/S7HpnL5/40thweddinganniversary-With-NOTHING.png" alt="40thweddinganniversary-With-NOTHING" border="0"></a></center></p>
-    <h1>YouTube</h1>
-    <p><a href="https://youtu.be/BfX3-uG_Kao">https://youtu.be/BfX3-uG_Kao</a></p>
-    <h1>Zoom</h1>
-    <p>Join with the Zoom App: <a href="https://us02web.zoom.us/j/82372576873?pwd=M0crNkR0L3ZUQ3V2c1AzcWJvUlZQdz09">https://us02web.zoom.us/j/82372576873?pwd=M0crNkR0L3ZUQ3V2c1AzcWJvUlZQdz09</a></p>
-    <p>Meeting ID: 823 7257 6873, Passcode: 511173</p>
-    <p>Or Dial-in: +19292056099, Meeting ID: 82372576873#, Passcode: *511173#</p>
+    <h1>Watch on YouTube</h1>
+    <p><a href="https://youtu.be/ONGIBBQKfjo">https://youtu.be/ONGIBBQKfjo</a></p>
+    <h1>Watch on Zoom</h1>
+    <p>
+Join Zoom Meeting</br>
+https://us02web.zoom.us/j/81754502434?pwd=VVBFY212d1gxY2huZWc0ajNIZ0NjQT09</br>
+
+Meeting ID: 817 5450 2434</br>
+Passcode: 574287</br>
+One tap mobile</br>
++19292056099,,81754502434#,,,,*574287# US (New York)</br>
++13017158592,,81754502434#,,,,*574287# US (Washington DC)</br>
+
+Dial by your location</br>
+        +1 929 205 6099 US (New York)</br>
+        +1 301 715 8592 US (Washington DC)</br>
+        +1 312 626 6799 US (Chicago)</br>
+        +1 669 900 6833 US (San Jose)</br>
+        +1 253 215 8782 US (Tacoma)</br>
+        +1 346 248 7799 US (Houston)</br>
+Meeting ID: 817 5450 2434</br>
+Passcode: 574287</br>
+Find your local number: https://us02web.zoom.us/u/kb5XV1SmG
+</p>
     <h1>Program</h1>
-    <p><small> Start time: 4PM. End Time: 6PM</small></br><small> <b>Master of Ceremonies: Bro. Michael Thompson</b></small>
+    <p>Start time: 3:30PM CST.
     </p>
     
 @endsection
