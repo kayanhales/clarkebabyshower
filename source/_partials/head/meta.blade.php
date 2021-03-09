@@ -4,15 +4,15 @@
 <!--<meta name="author" content="{{ $page->owner->name }}">-->
 <meta name="author" content="Kayan Hales Clarke">
 <!--<meta name="description" content="{!! $page->excerpt() ?: $page->site->description !!}">-->
-<meta name="description" content="Wedding">
+<meta name="description" content="Rachel and Joshua's Wedding">
 <!--<meta property="og:title" content="{{ $page->title ?: $page->site->title }}">-->
-<meta property="og:title" content="Wedding">
+<meta property="og:title" content="Rachel and Joshua's Wedding">
 <!--<meta property="og:description" content="{!! $page->excerpt() ?: $page->site->description !!}">-->
-<meta property="og:description" content="Wedding">
+<meta property="og:description" content="Rachel and Joshua's Wedding">
 <meta property="og:image" content="{{ $page->image ?: media($page->site->image) }}">
 <meta property="og:type" content="{{ $page->isPost ? 'article' : 'website' }}">
 <!--<meta property="og:site_name" content="{{ $page->site->title }}">-->
-<meta property="og:site_name" content="Wedding">
+<meta property="og:site_name" content="Rachel and Joshua's Wedding">
 <meta property="og:url" content="{{ $page->getUrl() }}">
 
 <meta name="twitter:title" content="{{ $page->title ?: $page->site->title }}">
