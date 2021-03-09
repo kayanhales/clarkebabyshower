@@ -3,7 +3,7 @@
 @section('content')
     
 
-    <p><center><a href="" alt="wedding" border="0"><img src="https://raw.githubusercontent.com/kayanhales/rachelwedding/master/source/_assets/pexels-fidel-hajj-2814808.jpg" width="500" /></a></center></p>
+    <p><center><a href="" alt="wedding" border="0"><img src="https://raw.githubusercontent.com/kayanhales/rachelwedding/master/source/_assets/R%20%2B%20J%20Engagement%20Pictures%20(52%20of%2077).jpg" width="500" /></a></center></p>
     <h1>Program</h1>
     <p>Start time: 3:30PM CST.
     </p>
