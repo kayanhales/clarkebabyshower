@@ -3,11 +3,9 @@
 @section('content')
     
 
-    <p><center><a href="" alt="wedding" border="0"><img src="https://raw.githubusercontent.com/kayanhales/rachelwedding/master/source/_assets/R%20%2B%20J%20Engagement%20Pictures%20(52%20of%2077).jpg" width="500" /></a></center></p>
-    <center><h1>Rachel & Joshua</h1></center> <center><h3>will be married on March 27, 2021 at 3:30PM CST</h3></center>
+    <p><center><a href="" alt="wedding" border="0"><img src="https://raw.githubusercontent.com/kayanhales/rachelwedding/master/source/_assets/babyshowersite.png" width="500" /></a></center></p>
+    <center><h1>Shane and Kayan</h1></center> <center><h3>will be having a baby shower on Dec 1, 2022 and 1PM EST</h3></center>
  </br><hr class="dotted"></br>
-    <h1>Watch on YouTube</h1>
-    <p><a href="https://youtu.be/ONGIBBQKfjo">https://youtu.be/ONGIBBQKfjo</a></p>
     <h1>Watch on Zoom</h1>
     <p>
 Join Zoom Meeting</br>
