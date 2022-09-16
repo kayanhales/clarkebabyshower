@@ -9,7 +9,7 @@
         {{ !empty($__env->yieldContent('title')) ? ' | ' : '' }}
         {{ $page->site->title }}
     </title>-->
-    <title>Rachel and Joshua's Wedding</title>
+    <title>Shane & Kayan's Baby Shower</title>
 
     @include('_partials.head.favicon')
     @include('_partials.head.meta')
@@ -41,7 +41,7 @@
             <small>
                 &copy; <span data-year></span> <!--{{ $page->owner->name }}-->Kayan Hales Clarke &nbsp;&bull;&nbsp;
                 <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp;
-                Maintained by Ranie Santos and Kayan Hales Clarke &nbsp;&bull;&nbsp;
+                Maintained by Ranie Santos and Kayan Hales-Clarke &nbsp;&bull;&nbsp;
                 <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>.
             </small>
         </footer>
