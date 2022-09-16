@@ -6,7 +6,7 @@
     <p><center><a href="" alt="wedding" border="0"><img src="https://raw.githubusercontent.com/kayanhales/clarkebabyshower/master/source/_assets/babyshowersite.png" width="500" /></a></center></p>
     <center><h1>Shane and Kayan</h1></center> <center><h3>will be having a baby shower on Saturday, Dec 3, 2022 and 1PM EST at the Oak Park Community Center.</h3>
     <p>Virtual attendees can join on zoom below.</p>
-    <p>Visit our baby registry at http://bit.ly/clarkebabyregistry</p></center>
+    <p>Visit our baby registry at <a href="http://bit.ly/clarkebabyregistry">http://bit.ly/clarkebabyregistry</a></p></center>
  </br><hr class="dotted"></br>
     <h1>Watch on Zoom</h1>
     <p>
