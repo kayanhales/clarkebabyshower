@@ -11,7 +11,7 @@
     <h1>Watch on Zoom</h1>
     <p>
 Join Zoom Meeting</br>
-https://us02web.zoom.us/j/82713190283?pwd=RUJWbWRJLzBSM09GLzliMExtTm0vQT09</br></br>
+<a href="https://us02web.zoom.us/j/82713190283?pwd=RUJWbWRJLzBSM09GLzliMExtTm0vQT09">https://us02web.zoom.us/j/82713190283?pwd=RUJWbWRJLzBSM09GLzliMExtTm0vQT09</a></br></br>
 
 Meeting ID: 827 1319 0283</br>
 Passcode: 557676</br>
@@ -34,7 +34,7 @@ Dial by your location</br>
         +1 564 217 2000 US</br></br>
 Meeting ID: 827 1319 0283</br>
 Passcode: 557676</br>
-Find your local number: <a href="https://us02web.zoom.us/u/kjxTL1QNa">HERE</a>
+Find your local number: <a href="https://us02web.zoom.us/u/kjxTL1QNa">https://us02web.zoom.us/u/kjxTL1QNa</a>
 </p>
     
     
